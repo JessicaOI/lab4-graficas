@@ -12,4 +12,4 @@ Y los 20 puntos
 
 100pts
 
-Tambien se encuntra un video demostrativo en el repo
+Tambien se encuentra un video demostrativo en el repo
