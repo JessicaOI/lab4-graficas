@@ -1,3 +1,7 @@
+# Lab4 graficas
+# Jessica Ortiz 20192
+
+
 class Obj(object):
     def __init__(self, filename):
         
